@@ -9,6 +9,17 @@ public class driver {
         double luas = persegiPanjang.hitungLuas();
 
         System.out.println("Luas Persegi Panjang adalah: " + luas);
+        System.out.println("Luas Persegi Panjang adalah: ");
+        System.out.println("Luas Persegi Panjang adalah: ");
+        System.out.println("Luas Persegi Panjang adalah: ");
+        System.out.println("Luas Persegi Panjang adalah: ");
+        System.out.println("Luas Persegi Panjang adalah: ");
+        System.out.println("Luas Persegi Panjang adalah: ");
+        System.out.println("Luas Persegi Panjang adalah: ");
+        System.out.println("Luas Persegi Panjang adalah: ");
+        System.out.println("Luas Persegi Panjang adalah: ");
+        System.out.println("Luas Persegi Panjang adalah: ");
+        
     }
 }
 
